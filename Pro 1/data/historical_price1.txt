@@ -1,5 +1,0 @@
-Bitcoin 30000
-Ethereum 1900
-Cardano 0.45
-Solana 22
-Dogecoin 0.06
